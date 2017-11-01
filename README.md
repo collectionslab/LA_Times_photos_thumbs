@@ -1,1 +1,1 @@
-# LA_Times_photos_thumbs
+# Los Angeles Times Photograph Collection Thumbnails
